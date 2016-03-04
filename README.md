@@ -7,14 +7,9 @@ Backlog do Produto
 - criar protótipos de tela front-end  
 <br>
 
-##### Banco de Dados
+##### Back-end
 - criar banco de dados
-- tornar o banco acessível à aplicação
-- implementar coleções de documentos  
-<br>
-
-##### Aplicação Back-end
-- criar o projeto back-end
+- criar projeto back-end
 - configurar acesso ao banco de dados
 - implementar API
 - implementar segurança *

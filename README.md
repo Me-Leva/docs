@@ -2,9 +2,12 @@ Backlog do Produto
 -----------
 
 ##### Documentos
-:black_small_square: criar modelo do banco de dados  
-:black_small_square: criar modelo da arquitetura do sistema
-:white_small_square: criar protótipos de tela front-end  
+:black_small_square: modelo do banco de dados  
+:black_small_square: modelo da arquitetura do sistema  
+:white_small_square: estórias do sistema  
+:white_small_square: protótipos de tela  
+:black_small_square: planilha de testes  
+:black_small_square: planilha de riscos  
 <br>
 
 ##### Back-end

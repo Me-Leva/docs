@@ -24,11 +24,11 @@ Backlog do Produto
 <br>
 
 ##### Extra
-:white_small_square: tela principal  
-:white_small_square: alterar cadastro  
+:white_small_square: menu principal  
+:white_small_square: alterar dados do usuário  
 <br>
 
-##### Tela Pedir Carona
+##### Pedir Carona
 :white_small_square: pedir carona  
 :white_small_square: mensagem de carona aceita  
 :white_small_square: mensagem de carona cancelada  
@@ -39,7 +39,7 @@ Backlog do Produto
 :white_small_square: desistir da carona  
 <br>
 
-##### Tela Oferecer Carona
+##### Oferecer Carona
 :white_small_square: listar pedidos de carona  
 :white_small_square: filtrar pedidos por bairro  
 :white_small_square: oferecer carona  

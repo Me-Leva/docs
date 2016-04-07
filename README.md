@@ -24,12 +24,12 @@ Backlog do Produto
 <br>
 
 ##### Extra
-:white_small_square: menu principal  
+:black_small_square: menu principal  
 :white_small_square: alterar dados do usuário  
 <br>
 
 ##### Pedir Carona
-:white_small_square: pedir carona  
+:black_small_square: pedir carona  
 :white_small_square: mensagem de carona aceita  
 :white_small_square: mensagem de carona cancelada  
 :white_small_square: exibir modelo e cor do carro  

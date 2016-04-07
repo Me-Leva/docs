@@ -6,7 +6,7 @@ Backlog do Produto
 :black_small_square: modelo da arquitetura do sistema  
 :white_small_square: estórias do sistema  
 :white_small_square: protótipos de tela  
-:black_small_square: planilha de testes  
+:white_small_square: planilha de testes  
 :black_small_square: planilha de riscos  
 <br>
 
@@ -18,9 +18,9 @@ Backlog do Produto
 
 ##### Login
 :black_small_square: efetuar login  
-:white_small_square: efetuar logoff  
+:black_small_square: efetuar logoff  
 :white_small_square: recuperar senha  
-:white_small_square: cadastrar usuário  
+:black_small_square: cadastrar usuário  
 <br>
 
 ##### Extra

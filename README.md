@@ -5,8 +5,8 @@ Backlog do Produto
 :black_small_square: modelo do banco de dados  
 :black_small_square: modelo da arquitetura do sistema  
 :black_small_square: estórias do sistema  
-:white_small_square: protótipos de tela  
-:white_small_square: planilha de testes  
+:black_small_square: protótipos de tela  
+:black_small_square: planilha de testes  
 :black_small_square: planilha de riscos  
 <br>
 
@@ -34,19 +34,19 @@ Backlog do Produto
 :white_small_square: mensagem de carona oferecida  
 :white_small_square: aceitar / recusar carona oferecida  
 :white_small_square: mensagem de carona aceita / recusada  
-:white_small_square: exibir telefone do motorista  
+:white_small_square: exibir nome e telefone do motorista  
 :white_small_square: exibir modelo e cor do carro  
 :white_small_square: exibir recomendações do motorista  
 <br>
 
 ##### Oferecer Carona
-:white_small_square: listar pedidos de carona  
-:white_small_square: filtrar pedidos por bairro  
+:black_small_square: listar pedidos de carona  
+:black_small_square: filtrar pedidos por bairro  
 :white_small_square: oferecer carona  
 :white_small_square: cancelar oferta  
 <br>
 
 ##### Histórico
-:white_small_square: exibir carona pendente  
-:white_small_square: listar caronas concluídas  
+:white_small_square: listar últimas caronas oferecidas / recebidas  
+:white_small_square: exibir data, nome e telefone dos alunos  
 :white_small_square: recomendar motorista  

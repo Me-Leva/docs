@@ -31,10 +31,10 @@ Backlog do Produto
 ##### Pedir Carona
 :black_small_square: pedir carona  
 :black_small_square: cancelar pedido  
-:white_small_square: mensagem de carona oferecida  
-:white_small_square: aceitar / recusar carona oferecida  
-:white_small_square: mensagem de carona aceita / recusada  
-:white_small_square: exibir nome e telefone do motorista  
+:black_small_square: mensagem de carona oferecida  
+:black_small_square: aceitar / recusar carona oferecida  
+:black_small_square: mensagem de carona aceita / recusada  
+:black_small_square: exibir nome e telefone do motorista  
 :white_small_square: exibir modelo e cor do carro  
 :white_small_square: exibir recomendações do motorista  
 <br>
@@ -42,11 +42,11 @@ Backlog do Produto
 ##### Oferecer Carona
 :black_small_square: listar pedidos de carona  
 :black_small_square: filtrar pedidos por bairro  
-:white_small_square: oferecer carona  
+:black_small_square: oferecer carona  
 :white_small_square: cancelar oferta  
 <br>
 
 ##### Histórico
-:white_small_square: listar últimas caronas oferecidas / recebidas  
-:white_small_square: exibir data, nome e telefone dos alunos  
+:black_small_square: listar últimas caronas oferecidas / recebidas  
+:black_small_square: exibir data, nome e telefone dos alunos  
 :white_small_square: recomendar motorista  

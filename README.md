@@ -19,13 +19,13 @@ Backlog do Produto
 ##### Login
 :black_small_square: efetuar login  
 :black_small_square: efetuar logoff  
-:white_small_square: recuperar senha  
+:black_small_square: recuperar senha  
 :black_small_square: cadastrar usuário  
 <br>
 
 ##### Extra
 :black_small_square: menu principal  
-:white_small_square: alterar dados do usuário  
+:black_small_square: alterar dados do usuário  
 <br>
 
 ##### Pedir Carona
@@ -36,7 +36,7 @@ Backlog do Produto
 :black_small_square: mensagem de carona aceita / recusada  
 :black_small_square: exibir nome e telefone do motorista  
 :white_small_square: exibir modelo e cor do carro  
-:white_small_square: exibir recomendações do motorista  
+:black_small_square: exibir recomendações do motorista  
 <br>
 
 ##### Oferecer Carona
@@ -49,4 +49,4 @@ Backlog do Produto
 ##### Histórico
 :black_small_square: listar últimas caronas oferecidas / recebidas  
 :black_small_square: exibir data, nome e telefone dos alunos  
-:white_small_square: recomendar motorista  
+:black_small_square: recomendar motorista  
